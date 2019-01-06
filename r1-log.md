@@ -22,3 +22,8 @@ I need to know to use keydown in react i think day 3 i will find how to do it in
 
 **Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
 ### R1D3
+**Today's Progress**:DrumMachineApp. Worked on to play the sound onclick
+
+**Thoughts:**  i find a way to make the onclick play  the sound but it didn't pass the test of freecodecamp check, i need to find a way to make it pass the test.
+
+**Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
