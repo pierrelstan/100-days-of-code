@@ -31,3 +31,8 @@ I need to know to use keydown in react i think day 3 i will find how to do it in
 ### R1D4
 **Today's Progress**:DrumMachineApp. Worked on to play the sound onclick
 **Thoughts:**  I  realise i need When I click on a .drum-pad element, the audio clip contained in its child <audio> element should be triggered. 
+
+### R1D5 
+**Today's Progress**:DrumMachineApp. Worked on to play the sound onclick
+**Thoughts:**  I need to go deep with how to  make the sound play with the id , i Know how to make  the sound play  with without
+selected the id so i need to find how to do that.
