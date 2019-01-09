@@ -36,3 +36,9 @@ I need to know to use keydown in react i think day 3 i will find how to do it in
 **Today's Progress**:DrumMachineApp. Worked on to play the sound onclick
 **Thoughts:**  I need to go deep with how to  make the sound play with the id , i Know how to make  the sound play  with without
 selected the id so i need to find how to do that.
+**Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
+
+### R1D6
+**Today's Progress**:DrumMachineApp. Worked on to play the sound onclick
+**Thoughts:**  today I do not know what happens to me , it's like I'm don't know what i'm doing .
+**Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
