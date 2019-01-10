@@ -42,3 +42,8 @@ selected the id so i need to find how to do that.
 **Today's Progress**:DrumMachineApp. Worked on to play the sound onclick
 **Thoughts:**  today I do not know what happens to me , it's like I'm don't know what i'm doing .
 **Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
+
+### R1D7
+**Today's Progress**:DrumMachineApp. Worked on button on off
+**Thoughts:** i need to go deep in react.
+**Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
