@@ -46,9 +46,10 @@ selected the id so i need to find how to do that.
 ### R1D7
 **Today's Progress**:DrumMachineApp. Worked on button on off
 **Thoughts:** i need to go deep in react.
+<<<<<<< HEAD
 **Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
 
 ### R1D8
-**Today's Progress**:DrumMachineApp.Worked on the MongoDb basic  and the the handle event in DrumMachine
-**Thoughts:**  things get clear i my mind.
+**Today's Progress**:DrumMachineApp.Worked on the MongoDb basics  and the the handle event in DrumMachine
+**Thoughts:**  things get clear i my mind .
 **Link to work:** [DrumMachine App](https://github.com/pierrelstan/drum-machine)
